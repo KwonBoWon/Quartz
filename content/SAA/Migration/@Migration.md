@@ -10,7 +10,6 @@
 
 ![[Transfer Family#Transfer Family 개념]]
 
-
 1. **애플리케이션 전환**:
 
 • 수정 없이 전환: **AWS MGN**.
