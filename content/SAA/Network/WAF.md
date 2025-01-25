@@ -4,4 +4,5 @@
 
 * Web Application Firewall
 * 웹 애플리케이션 계층(HTTP/S)에서 보안 위협 방어
+	* API GW와 함께 많이 쓰임
 * SQL Injection, XSS

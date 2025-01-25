@@ -18,11 +18,17 @@
 
 ## 엣지 네트워킹
 
+![[Route53#Route53 개념]]
+
+
+### CloudFront/Global Accelerator 비교
+
+CloudFront: 앱 계층 + 캐싱
+GlobalAccelerator: 트래픽 라우팅(TCP/UDP) 및 성능 최적화
+
 ![[CloudFront#CloudFront 개념]]
 
-![[Gloabal Accelerator#Global Accelerator 개념]]
-
-![[Route53#Route53 개념]]
+![[Global Accelerator#Global Accelerator 개념]]
 
 ## 하이브리드 연결
 
@@ -40,7 +46,7 @@
 
 ![[Network Firewall#Network Firewall 설명]]
 
-![[Secruity Groups#Security Groups 개념]]
+![[Security Groups#Security Groups 개념]]
 
 ![[NACL#NACL 개념]]
 

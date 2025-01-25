@@ -1,0 +1,23 @@
+- ALB, 표정리
+
+- CloudFront/Global Accelerator
+	- OAC, OAI
+	- 필드 수준 암호화
+- ECS
+- Aurora 복제 사례
+- CloudWatch 경보 사례
+- Control Tower
+- Organization 액세스 서비스 제어 정책
+	- 168, 단일 지점, SCP
+- KPI
+- Fargate+ECS
+- RDS 프록시
+- Dynamo Accelerator  DAX
+- System Manager Parameter Store
+- IAM 정책 권한
+	- 액세스 권한
+- NLB+Shield, API GW + WAF
+- 고가용성
+	- 다중 AZ
+- Medical
+- EventBridge, 이벤트 정리
