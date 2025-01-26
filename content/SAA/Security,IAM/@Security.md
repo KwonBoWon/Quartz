@@ -10,9 +10,9 @@
 
 ![[CloudTrail#CloudTrail 개념]]
 
-![[Config#Config 개념]]
-
 ![[GuardDuty#GuardDuty 개념]]
+
+![[Config#Config 개념]]
 
 ![[Inspector#Inspector 개념]]
 
@@ -30,3 +30,4 @@
 
 ![[Shield#Shield 설명]]
 
+![[Detective#Detective 개념]]
