@@ -6,7 +6,7 @@
 
 ![[Config#Config 개념]]
 
-
+![[CloudFormation#CloudFormation 개념]]
 
 
 
