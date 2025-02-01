@@ -1,5 +1,9 @@
-# Direct Connect
+# Direct Connect(DX)
 
-## Direct Connect 개념
+## Direct Connect(DX) 개념
 
 * AWS로 전용 네트워크 연결 생성(하이브리드)
+- AWS와 온프레미스를 전용 물리 회선으로 연결하는 방식
+- VPN과 달리 인터넷을 거치지 않기 때문에 속도가 빠르고 안정적임(1~100Gbps)
+- 구축 시간이 길다(수주에서 수개월 소요)
+

@@ -1,8 +1,10 @@
 # @Migration
 
-![[DMS#DMS 개념]]
+![[DMS#Database Migration Service(DMS) 개념]]
 
-![[MGN#MGN 개념]]
+![[SMS#Server Migration Service(SMS) 개념]]
+
+![[MGN#Application Migration Service(MGN) 개념]]
 
 ![[DataSync#DataSync 개념]]
 
@@ -31,3 +33,9 @@
 4. **중앙 관리 및 추적**:
 
 • 모든 마이그레이션 작업 관리: **AWS Migration Hub**.
+
+
+![[Resource Inventory#Resource Inventory 개념]]
+
+![[Workload Discovery#Workload Discovery 개념]]
+

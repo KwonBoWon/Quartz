@@ -25,6 +25,18 @@
 4. 스케일링 및 성능 최적화
 	- 대량의 연결을 처리하고 자동으로 확장할 수 있어, 애플리케이션 성능 극대화
 
+## 캐싱
+
+1. 애플리케이션 레벨 캐싱(In-Memory-Cache)
+	- ElasticCache(Redis/Memcached(문자열만))로 자주 조회하는 데이터 캐싱
+	- 읽기 성능 최적화, TTL을 조절하여 동기화 문제 해결
+2. RDS 읽기 최적화(Read Replicas)
+	- 읽기 전용 복제본을 생성하여 읽기 부하를 분산
+3. CloudFront + API Gateway 캐싱(API기반 서비스)
+	- API응답을 캐싱 가능
+	- CloudFront로 이미지/정적 데이터와 API응답을 모두 캐싱
+
+
 ## 사례 
 
 ### 암호화

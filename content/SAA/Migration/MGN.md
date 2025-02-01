@@ -1,6 +1,6 @@
 # Application Migration Service
 
-## MGN 개념
+## Application Migration Service(MGN) 개념
 
 - 애플리케이션 아키텍쳐 수정 없이 그대로 마이그레이션
 - 물리적, 가상, 클라우드 기반 서버를 변환하여 AWS로 전환
